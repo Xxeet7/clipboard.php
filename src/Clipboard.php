@@ -4,6 +4,7 @@
  * Clipboard - perform clipboard operations in PHP
  * Homepage: https://github.com/asvvvad/clipboard
  * Made by ASVVVAD (https://asvvad.eu.org)
+ * Forked and maintained by Xxeet7 (https://github.com/Xxeet7/clipboard.php)
  */
 class Clipboard
 {

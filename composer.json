@@ -1,15 +1,15 @@
 {
-	"name": "asvvvad/clipboard",
+	"name": "Xxeet7/clipboard",
 	"description": "Perform clipboard operations (Copy/Paste) in PHP.",
 	"type": "library",
 	"require": {
 		"php": ">=7.2.0"
 	},
-	"license": "GPL-3.0",
+	"license": "BSD-3-Clause",
 	"authors": [
 		{
-			"name": "asvvvad",
-			"email": "asvvvad@disroot.org"
+			"name": "Xxeet7",
+			"email": "2good4yall991@gmail.com"
 		}
 	],
 	"autoload": {

@@ -1,5 +1,5 @@
 {
-	"name": "Xxeet7/clipboard",
+	"name": "xxeet7/clipboard",
 	"description": "Perform clipboard operations (Copy/Paste) in PHP.",
 	"type": "library",
 	"require": {

@@ -1,7 +1,8 @@
 {
 	"name": "xxeet7/clipboard",
 	"description": "Perform clipboard operations (Copy/Paste) in PHP.",
-	"type": "library",
+  "keywords": ["clipboard", "copy", "paste", "php"],
+  "type": "library",
 	"require": {
 		"php": ">=7.2.0"
 	},

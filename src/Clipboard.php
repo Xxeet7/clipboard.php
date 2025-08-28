@@ -59,7 +59,7 @@ class Clipboard
 				break;
 			case 'Windows':
 				// needs: https://www.c3scripts.com/tutorials/msdos/paste.html#exe
-				if (lookPath("paste.exe")) {
+        if ($this->lookPath("paste.exe")) {
 					$this->pasteCmdArgs = 'paste';
 				} else {
 					// https://github.com/Microsoft/WSL/issues/1069

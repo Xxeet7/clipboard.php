@@ -1,7 +1,7 @@
 # Clipboard for PHP
 Provide copying and pasting to the Clipboard for PHP.
 
-PHP port of [atotto/clipboard](https://github.com/asvvvad1/clipboard).
+PHP port of [asvvvad1/clipboard](https://github.com/asvvvad1/clipboard).
 
 > #### Requires PHP 7.2.0 and above
 
